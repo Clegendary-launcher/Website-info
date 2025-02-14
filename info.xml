@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <link>https://www.example.com</link>
     
     <item>
-      <link>https://drive.google.com/file/d/1X_Z7U3PiYmkOObEBxlRKVBXJrJIJQq50/view</link>
+      <link1>https://drive.google.com/file/d/1X_Z7U3PiYmkOObEBxlRKVBXJrJIJQq50/view</link>
     </item>
 
     <item>
-      <link>https://discord.gg/gxtmzMU66q</link>
+      <link2>https://discord.gg/gxtmzMU66q</link>
     </item>
 
   </channel>
